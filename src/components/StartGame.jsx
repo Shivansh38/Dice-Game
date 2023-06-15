@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { Button } from "../styled/Button.js";
+import { Button } from "../styled/Buttons";
 
 const StartGame = ({ toggle }) => {
   return (

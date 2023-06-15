@@ -3,7 +3,7 @@ import NumberSelector from "./NumberSelector";
 import TotalScore from "./TotalScore";
 import RoleDice from "./RoleDice";
 import { useState } from "react";
-import { Button, OutlineButton } from "../styled/Button.js";
+import { Button, OutlineButton } from "../styled/Buttons";
 import Rules from "./Rules";
 
 const GamePlay = () => {
